@@ -32,8 +32,8 @@ Prompts are organized by theme and style for easy browsing:
 
 ## 💡 How to Use
 
-1.  **Try Online**: Click the button above to visit [Nano Banana AI](https://nanobanana.art/) and start with free credits.
-2.  **Browse Prompts**: Navigate to the [`prompts`](./prompts) directory to explore categorized prompt files (each is a `.md` file).
+1.  **Try Online**: Click the button above to visit [Nano Banana AI](https://nanobanana.art/uni-1) and start with free credits.
+2.  **Browse Prompts**: Navigate to the [`prompts`](https://nanobanana.art/prompts) directory to explore categorized prompt files (each is a `.md` file).
 3.  **Copy & Paste**: Find a prompt you like and copy it directly into the Uni-1 model interface.
 4.  **Customize**: Tweak details like colors, subject actions, or mood keywords to achieve your desired result.
 
